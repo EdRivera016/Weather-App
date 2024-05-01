@@ -18,9 +18,9 @@ const getWeatherDetails = (cityName, lat, lon) => {
       });
       console.log(fiveDaysForecast);
     })
-    // .catch(() => {
-    //   alert("An error has occurred while fetching the weather forecast!");
-    // });
+    .catch(() => {
+      alert("An error has occurred while fetching the weather forecast!");
+    });
 };
 
 const getCityCoordinates = () => {

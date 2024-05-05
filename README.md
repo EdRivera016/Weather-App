@@ -25,21 +25,20 @@ THEN I am again presented with current and future conditions for that city
 ## Website Page Screenshot
 
 ![Deployed page](assets/img/weather-dashboard-screenshot.png)
+https://edrivera016.github.io/Weather-App/
 
 ## Comments 
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* Developed a weather dashboard
+* Added a search bar to look for any city.
+* Added A clear button to clear any search history saved on local storage.
+* Implemented a section to display current weather and a section to display forecast for the next 5 days.
+* Added a area where search history will appearand you can click on any city and it will give you the current and 5 days forecast.
+* Implemented Font Awesome to display search icon.
+* OpenWeather Api for forecast.
+* API to display the current weather in an icon.
 
 ## Contributions 
 * https://openweathermap.org/api
 * https://www.bootstrapcdn.com/
-* 
+* https://cdnjs.com/libraries/font-awesome/5.11.2
   
